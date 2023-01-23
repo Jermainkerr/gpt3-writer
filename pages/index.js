@@ -82,7 +82,7 @@ const Home = () => {
         >
           <div className="badge">
             <Image src={buildspaceLogo} alt="buildspace logo" />
-            <p>build with buildspace</p>
+            <p>Kerr.io</p>
           </div>
         </a>
       </div>
